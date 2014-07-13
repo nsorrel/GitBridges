@@ -1,0 +1,12 @@
+﻿Title: Fall Arrival Help
+
+----
+
+Location: <?php snippet('map', array(
+    'address' => 'Mannheim, Germany',
+    'zoom'    => 17,
+    'width'   => 300,
+    'height'  => 200
+));
+?>
+----
